@@ -2,6 +2,9 @@
 
 A powerful, AI-driven Applicant Tracking System (ATS) simulator designed to help job seekers optimize their resumes for highly competitive tech roles. Using Google Gemini, this app analyzes your resume against a specific Job Description (JD) to provide a match percentage, identify missing keywords, and suggest profile improvements.
 
+# 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gemini-smart-ats.streamlit.app/)
+
 ![UI](/images/image1.png)
 
 ## Features
